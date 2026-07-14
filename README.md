@@ -21,7 +21,7 @@
 
 ```yaml
 nombre:      Juan
-ubicacion:   Marín, Galicia 🇪🇸
+ubicacion:   Pontevedra, Galicia 🇪🇸
 formacion:   DAW - Desarrollo de Aplicaciones Web (en curso)
 background:  Técnico en Sistemas Microinformáticos y Redes
 experiencia: Mantenimiento de servidores · Redes locales · Soporte IT
